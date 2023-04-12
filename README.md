@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAFf5Gm1kNA/Y1KsQTcpiM_ojbI09fkNyw/edit?utm_content=DAFf5Gm1kNA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Pritam Halder</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
