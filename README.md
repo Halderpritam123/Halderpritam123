@@ -13,7 +13,7 @@
 
 -     Address: Kolkata,West Bengal,India.
      
--     Portfolio Link: <a href='https://halderpritam123.github.io/'>https://halderpritam123.github.io/</a>
+-     Portfolio Link: <a href="https://halderpritam123.github.io/">https://halderpritam123.github.io/</a>
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
