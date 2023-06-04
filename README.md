@@ -1,11 +1,13 @@
 ![logo](https://github.com/Halderpritam123/Halderpritam123/blob/main/bannerlog.png)
 <h1 align="center">Hi 👋, I'm Pritam Halder</h1>
-<h3 align="center">A passionate aspiring Full Stack MongoDB, Express, React, Node.js, Developer with considerable technical skills, who possess self-discipline and the ability to work with minimum supervision. Looking forward to opportunities that can bring challenges and learnings to leverage and hone skills.</h3>
+<h3 align="center">Aspiring Full Stack Web Developer at Masai School, Life Long Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Halderpritam123&label=Profile%20views&color=0e75b6&style=flat" alt="Halderpritam123" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+ A passionate aspiring Full Stack MongoDB, Express, React, Node.js, Developer with considerable technical skills, who possess self-discipline and the ability to work with minimum supervision. Looking forward to opportunities that can bring challenges and learnings to leverage and hone skills.
+
+
 
 - 💬 Ask me about **MERN, Java Script, CSS, HTML**
 
